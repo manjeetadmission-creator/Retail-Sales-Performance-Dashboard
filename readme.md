@@ -78,7 +78,7 @@ High-level KPI monitoring including:
 
 
 
-![Executive Overview](screenshots/01.Executive Overview.png)
+![Executive Overview](screenshots/01.Executive%20Overview.png)
 
 
 
@@ -108,7 +108,7 @@ Customer profitability and segment performance analysis.
 
 
 
-![Customer Analysis](screenshots/02.Customer Analysis.png)
+![Customer Analysis](screenshots/02.Customer%20Analysis.png)
 
 
 
