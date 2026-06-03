@@ -1,6 +1,6 @@
 # Retail Sales Performance \& Business Intelligence Dashboard
 
-
+![Dashboard Cover](screenshots/01.Executive%20Overview.png)
 
 ## Business Problem
 
@@ -30,7 +30,18 @@ This project provides an end-to-end Retail Analytics solution using PostgreSQL, 
 
 ---
 
+## Key Insights
 
+- $2.3M Total Sales
+- $286K Total Profit
+- 12.5% Profit Margin
+- 46.9% YoY Growth
+- Regional and category performance analysis
+- Customer profitability and segmentation insights
+
+
+
+---
 
 ## Tools \& Technologies
 
