@@ -108,7 +108,7 @@ Customer profitability and segment performance analysis.
 
 
 
-![Customer Analysis](screenshots/02.Customer Analysis.png)
+![Customer Analysis](screenshots/02.Customer_Analysis.png)
 
 
 
