@@ -2,7 +2,7 @@
 
 
 
-\## Business Problem
+## Business Problem
 
 
 
@@ -10,17 +10,17 @@ Retail organizations often struggle to understand:
 
 
 
-\- Which products drive profitability
+- Which products drive profitability
 
-\- Which customer segments create the most value
+- Which customer segments create the most value
 
-\- How discounts impact margins
+- How discounts impact margins
 
-\- Regional sales performance
+- Regional sales performance
 
-\- Seasonal sales patterns
+- Seasonal sales patterns
 
-\- Year-over-year business growth
+- Year-over-year business growth
 
 
 
@@ -28,35 +28,35 @@ This project provides an end-to-end Retail Analytics solution using PostgreSQL, 
 
 
 
-\---
+---
 
 
 
-\## Tools \& Technologies
+## Tools \& Technologies
 
 
 
-\- PostgreSQL
+- PostgreSQL
 
-\- SQL
+- SQL
 
-\- Power BI
+- Power BI
 
-\- DAX
+- DAX
 
-\- Excel
-
-
-
-\---
+- Excel
 
 
 
-\## Dashboard Components
+---
 
 
 
-\## Executive Overview
+## Dashboard Components
+
+
+
+## Executive Overview
 
 
 
@@ -64,29 +64,29 @@ High-level KPI monitoring including:
 
 
 
-\- Total Sales
+- Total Sales
 
-\- Total Profit
+- Total Profit
 
-\- Profit Margin
+- Profit Margin
 
-\- Average Order Value
+- Average Order Value
 
-\- YoY Growth
+- YoY Growth
 
-\- Regional Performance
-
-
-
-!\[Executive Overview](./screenshots/01.Executive Overview.png)
+- Regional Performance
 
 
 
-\---
+![Executive Overview](./screenshots/01.Executive Overview.png)
 
 
 
-\## Customer Analysis
+---
+
+
+
+## Customer Analysis
 
 
 
@@ -94,29 +94,29 @@ Customer profitability and segment performance analysis.
 
 
 
-\### Key Capabilities
+### Key Capabilities
 
 
 
-\- Top customers by sales
+- Top customers by sales
 
-\- Top customers by profit
+- Top customers by profit
 
-\- Segment analysis
+- Segment analysis
 
-\- Customer-level drill-down reporting
-
-
-
-!\[Customer Analysis](screenshots/02.Customer Analysis.png)
+- Customer-level drill-down reporting
 
 
 
-\---
+![Customer Analysis](screenshots/02.Customer Analysis.png)
 
 
 
-\## Profitability Analysis
+---
+
+
+
+## Profitability Analysis
 
 
 
@@ -124,29 +124,29 @@ Profit-focused business analysis.
 
 
 
-\### Key Capabilities
+### Key Capabilities
 
 
 
-\- Profit by discount band
+- Profit by discount band
 
-\- Profit margin analysis
+- Profit margin analysis
 
-\- Loss-making product categories
+- Loss-making product categories
 
-\- Category profitability comparison
-
-
-
-!\[Profitability Analysis](screenshots/03.Profitability%20Analysis.png)
+- Category profitability comparison
 
 
 
-\---
+![Profitability Analysis](screenshots/03.Profitability%20Analysis.png)
 
 
 
-\## Time Intelligence
+---
+
+
+
+## Time Intelligence
 
 
 
@@ -154,31 +154,31 @@ Time-series performance reporting.
 
 
 
-\### Key Capabilities
+### Key Capabilities
 
 
 
-\- YTD Sales
+- YTD Sales
 
-\- YoY Growth
+- YoY Growth
 
-\- Monthly trends
+- Monthly trends
 
-\- Quarterly performance
+- Quarterly performance
 
-\- Seasonal analysis
-
-
-
-!\[Time Intelligence](screenshots/04.Time%20Intelligence.png)
+- Seasonal analysis
 
 
 
-\---
+![Time Intelligence](screenshots/04.Time%20Intelligence.png)
 
 
 
-\## Order Details
+---
+
+
+
+## Order Details
 
 
 
@@ -186,49 +186,49 @@ Transaction-level operational reporting.
 
 
 
-\### Key Capabilities
+## Key Capabilities
 
 
 
-\- Detailed order analysis
+- Detailed order analysis
 
-\- Product-level review
+- Product-level review
 
-\- Operational drill-through reporting
-
-
-
-!\[Order Details](screenshots/05.Order%20Details.png)
+- Operational drill-through reporting
 
 
 
-\---
+![Order Details](screenshots/05.Order%20Details.png)
 
 
 
-\## Key Business Insights
+---
 
 
 
-\- Identified highest-performing customer segments
-
-\- Highlighted loss-making product categories
-
-\- Measured impact of discounting on profitability
-
-\- Analyzed regional sales performance
-
-\- Evaluated year-over-year growth trends
-
-\- Built executive-level KPI reporting
+## Key Business Insights
 
 
 
-\---
+- Identified highest-performing customer segments
+
+- Highlighted loss-making product categories
+
+- Measured impact of discounting on profitability
+
+- Analyzed regional sales performance
+
+- Evaluated year-over-year growth trends
+
+- Built executive-level KPI reporting
 
 
 
-\## Repository Structure
+---
+
+
+
+## Repository Structure
 
 
 
@@ -254,11 +254,11 @@ Retail-Sales-Performance-Dashboard/
 
 
 
-\---
+---
 
 
 
-\## Author
+## Author
 
 
 
