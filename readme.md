@@ -1,6 +1,8 @@
-Retail Sales Performance \& Business Intelligence Dashboard
+\# Retail Sales Performance \& Business Intelligence Dashboard
 
-Business Problem
+
+
+\## Business Problem
 
 
 
@@ -8,47 +10,49 @@ Retail organizations often struggle to understand:
 
 
 
-Which products drive profitability
+\- Which products drive profitability
 
-Which customer segments create the most value
+\- Which customer segments create the most value
 
-How discounts impact margins
+\- How discounts impact margins
 
-Regional sales performance
+\- Regional sales performance
 
-Seasonal and year-over-year sales trends
+\- Seasonal sales patterns
 
-
-
-This dashboard provides an interactive analytics solution enabling management to monitor KPIs, identify profitability drivers, and support data-driven decision-making.
+\- Year-over-year business growth
 
 
 
-Solution Overview
+This project provides an end-to-end Retail Analytics solution using PostgreSQL, SQL, Power BI, DAX, and Excel to transform raw transactional data into actionable business insights.
 
 
 
-Designed and developed an end-to-end business intelligence solution using PostgreSQL, SQL Views, Power BI, and DAX.
+\---
 
 
 
-The dashboard combines executive reporting, customer analytics, profitability analysis, and time intelligence reporting into a single interactive reporting environment.
+\## Tools \& Technologies
 
 
 
-Technology Stack
+\- PostgreSQL
 
-PostgreSQL
+\- SQL
 
-SQL Views
+\- Power BI
 
-Power BI
+\- DAX
 
-DAX
+\- Excel
 
-Excel
 
-Dashboard Components
+
+\---
+
+
+
+\## Dashboard Components
 
 
 
@@ -60,21 +64,25 @@ High-level KPI monitoring including:
 
 
 
-\-Total Sales
+\- Total Sales
 
-\-Total Profit
+\- Total Profit
 
-\-Profit Margin
+\- Profit Margin
 
-\-Average Order Value
+\- Average Order Value
 
-\-YoY Growth
+\- YoY Growth
 
-\-Regional Performance
+\- Regional Performance
 
 
 
 !\[Executive Overview](screenshots/01.Executive%20Overview.png)
+
+
+
+\---
 
 
 
@@ -86,17 +94,17 @@ Customer profitability and segment performance analysis.
 
 
 
-Key capabilities:
+\### Key Capabilities
 
 
 
-\-Top customers by sales
+\- Top customers by sales
 
-\-Top customers by profit
+\- Top customers by profit
 
-\-Segment analysis
+\- Segment analysis
 
-\-Customer-level drill-down reporting
+\- Customer-level drill-down reporting
 
 
 
@@ -104,29 +112,37 @@ Key capabilities:
 
 
 
+\---
+
+
+
 \## Profitability Analysis
 
 
 
-Evaluation of profitability drivers and discount impact.
+Profit-focused business analysis.
 
 
 
-Key capabilities:
+\### Key Capabilities
 
 
 
-\-Profit by discount band
+\- Profit by discount band
 
-\-Profit margin analysis
+\- Profit margin analysis
 
-\-Loss-making product categories
+\- Loss-making product categories
 
-\-Category profitability comparison
+\- Category profitability comparison
 
 
 
 !\[Profitability Analysis](screenshots/03.Profitability%20Analysis.png)
+
+
+
+\---
 
 
 
@@ -138,23 +154,27 @@ Time-series performance reporting.
 
 
 
-Key capabilities:
+\### Key Capabilities
 
 
 
-\-YTD Sales
+\- YTD Sales
 
-\-YoY Growth
+\- YoY Growth
 
-\-Monthly trends
+\- Monthly trends
 
-\-Quarterly performance
+\- Quarterly performance
 
-\-Seasonal analysis
+\- Seasonal analysis
 
 
 
 !\[Time Intelligence](screenshots/04.Time%20Intelligence.png)
+
+
+
+\---
 
 
 
@@ -166,15 +186,15 @@ Transaction-level operational reporting.
 
 
 
-Key capabilities:
+\### Key Capabilities
 
 
 
-\-Detailed order analysis
+\- Detailed order analysis
 
-\-Product-level review
+\- Product-level review
 
-\-Operational drill-through reporting
+\- Operational drill-through reporting
 
 
 
@@ -182,35 +202,69 @@ Key capabilities:
 
 
 
-Key Business Insights
-
-Technology generated the highest profit contribution.
-
-Consumer customers generated the largest share of revenue.
-
-Higher discount levels significantly reduced profitability.
-
-Tables and Bookcases were the largest loss-making sub-categories.
-
-Sales demonstrated strong year-over-year growth momentum.
+\---
 
 
 
-\## Skills Demonstrated
+\## Key Business Insights
 
-\-SQL Data Analysis
 
-\-Data Modeling
 
-\-DAX Measures
+\- Identified highest-performing customer segments
 
-\-Time Intelligence
+\- Highlighted loss-making product categories
 
-\-KPI Reporting
+\- Measured impact of discounting on profitability
 
-\-Business Analysis
+\- Analyzed regional sales performance
 
-\-Dashboard Design
+\- Evaluated year-over-year growth trends
 
-\-Data Visualization
+\- Built executive-level KPI reporting
+
+
+
+\---
+
+
+
+\## Repository Structure
+
+
+
+```text
+
+Retail-Sales-Performance-Dashboard/
+
+│
+
+├── dataset/
+
+├── docs/
+
+├── powerbi/
+
+├── screenshots/
+
+├── sql/
+
+└── README.md
+
+```
+
+
+
+\---
+
+
+
+\## Author
+
+
+
+Manjeet Kathuria
+
+
+
+MBA Finance (Distinction) | CFA Level II | Financial Analysis | Data Analytics | Power BI | SQL | Python
 
