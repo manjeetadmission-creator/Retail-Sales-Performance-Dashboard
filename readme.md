@@ -50,7 +50,9 @@ Excel
 
 Dashboard Components
 
-Executive Overview
+
+
+\## Executive Overview
 
 
 
@@ -58,25 +60,25 @@ High-level KPI monitoring including:
 
 
 
-Total Sales
+\-Total Sales
 
-Total Profit
+\-Total Profit
 
-Profit Margin
+\-Profit Margin
 
-Average Order Value
+\-Average Order Value
 
-YoY Growth
+\-YoY Growth
 
-Regional Performance
-
-
-
-!\[Executive Overview](screenshots/01.Executive Overview.png)
+\-Regional Performance
 
 
 
-Customer Analysis
+!\[Executive Overview](screenshots/01.Executive%20Overview.png)
+
+
+
+\## Customer Analysis
 
 
 
@@ -88,21 +90,21 @@ Key capabilities:
 
 
 
-Top customers by sales
+\-Top customers by sales
 
-Top customers by profit
+\-Top customers by profit
 
-Segment analysis
+\-Segment analysis
 
-Customer-level drill-down reporting
-
-
-
-!\[Customer Analysis](screenshots/02.Customer Analysis.png)
+\-Customer-level drill-down reporting
 
 
 
-Profitability Analysis
+!\[Customer Analysis](screenshots/02.Customer%20Analysis.png)
+
+
+
+\## Profitability Analysis
 
 
 
@@ -114,21 +116,21 @@ Key capabilities:
 
 
 
-Profit by discount band
+\-Profit by discount band
 
-Profit margin analysis
+\-Profit margin analysis
 
-Loss-making product categories
+\-Loss-making product categories
 
-Category profitability comparison
-
-
-
-!\[Profitability Analysis](screenshots/03.Profitability Analysis.png)
+\-Category profitability comparison
 
 
 
-Time Intelligence
+!\[Profitability Analysis](screenshots/03.Profitability%20Analysis.png)
+
+
+
+\## Time Intelligence
 
 
 
@@ -140,23 +142,23 @@ Key capabilities:
 
 
 
-YTD Sales
+\-YTD Sales
 
-YoY Growth
+\-YoY Growth
 
-Monthly trends
+\-Monthly trends
 
-Quarterly performance
+\-Quarterly performance
 
-Seasonal analysis
-
-
-
-!\[Time Intelligence](screenshots/04.Time Intelligence.png)
+\-Seasonal analysis
 
 
 
-Order Details
+!\[Time Intelligence](screenshots/04.Time%20Intelligence.png)
+
+
+
+\## Order Details
 
 
 
@@ -168,15 +170,15 @@ Key capabilities:
 
 
 
-Detailed order analysis
+\-Detailed order analysis
 
-Product-level review
+\-Product-level review
 
-Operational drill-through reporting
+\-Operational drill-through reporting
 
 
 
-!\[Order Details](screenshots/05.Order Details.png)
+!\[Order Details](screenshots/05.Order%20Details.png)
 
 
 
@@ -192,21 +194,23 @@ Tables and Bookcases were the largest loss-making sub-categories.
 
 Sales demonstrated strong year-over-year growth momentum.
 
-Skills Demonstrated
 
-SQL Data Analysis
 
-Data Modeling
+\## Skills Demonstrated
 
-DAX Measures
+\-SQL Data Analysis
 
-Time Intelligence
+\-Data Modeling
 
-KPI Reporting
+\-DAX Measures
 
-Business Analysis
+\-Time Intelligence
 
-Dashboard Design
+\-KPI Reporting
 
-Data Visualization
+\-Business Analysis
+
+\-Dashboard Design
+
+\-Data Visualization
 
