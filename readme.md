@@ -1,4 +1,4 @@
-\# Retail Sales Performance \& Business Intelligence Dashboard
+# Retail Sales Performance \& Business Intelligence Dashboard
 
 
 
